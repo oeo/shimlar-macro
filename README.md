@@ -10,7 +10,8 @@ with a live HUD showing what it is doing.
 
 *A level 1 character, four minutes of play at 8x speed. Nothing is scripted
 for this screen: the loop reads the page and decides each click.*
-[Watch the one-minute video](assets/demo.mp4).
+
+[![Watch the one-minute video](assets/video.png)](assets/demo.mp4)
 
 ## What it does for you
 
