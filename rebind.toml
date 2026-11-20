@@ -1,0 +1,21 @@
+[package]
+name = "shimlar-macro"
+version = "0.1.0"
+min_sdk = "3.19.0"
+
+# Uncomment to list on the marketplace (`rebind publish`).
+# [marketplace]
+# summary = "One line, shown in the grid."
+# title = "My Package"        # storefront name, defaults to the slug
+# category = "utility"        # gaming | mouse | remapping | macro | text | apps | audio | streaming | productivity | accessibility | utility
+# icon = "assets/icon.png"    # 128x128 png
+# # product-page gallery, in order: 1280x800 or 640x400 png, mp4
+# media = ["assets/shot-1.png", "assets/demo.mp4"]
+# private = false              # true: direct link only, not in browse
+# channel = "my-channel"
+# drm = false
+#
+# # absent = free / one_time AND an interval key = hybrid
+# [marketplace.price]
+# one_time = 15.00             # usd
+# monthly = 5.00               # or weekly / daily; one at most
